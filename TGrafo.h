@@ -25,27 +25,23 @@ class TGrafo{
 		int n; // quantidade de vertices
 		int m; // quantidade de arestas
 		float **adj; //matriz de adjacencia
-		void fechoSucessores(int v, bool marcado[]);
-		void fechoPredecessores(int v, bool marcado[]);
-		void componentesFortementeConexas(int cfc_id[]);
 		int atinge(int vInicio, int vFim);
-		int is_f_conexo();
-		int is_sf_conexo();
-		int is_s_conexo();
+		
 
 	public:
+		std::vector<std::string> rotulos; // lista de rotulos
 		TGrafo(int n);
 		~TGrafo();
 		int get_n();
 		int get_m();
 		float get_peso(int v, int w);
 		void show();
-		int insereV();
+		int insereV(std::string rotulo);
 		void insereA(int v, int w, int peso);
 		void removeV(int v);
 		void removeA(int v, int w);
-		int conexidade();
-		TGrafo* grafo_reduzido();
+		bool is_conexo();
+		int insereR(std::string rotulo);
 };
 
 #endif

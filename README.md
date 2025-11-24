@@ -50,4 +50,4 @@ Essa opção foi retirada após a mudança para um grafo não direcionado.
 - arp_app.cpp: Arquivo principal que contém a função main e a lógica para a interface de linha de comando.
 
 ## Link para o vídeo
-https://www.youtube.com/@lucastuon
+https://youtu.be/vRDOtkG567A

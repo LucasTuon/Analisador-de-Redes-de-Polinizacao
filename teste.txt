@@ -1,0 +1,406 @@
+2 
+104 
+0 Aethusa_cynapium
+1 Agrimonia_eupatoria
+2 Angelica_sylvestris
+3 Centaurea_nigra
+4 Chamerion_angustifolium
+5 Clematis_vitalba
+6 Convolvulus_arvensis
+7 Crepis_capillaris
+8 Daucus_carota
+9 Eupatorium_cannabinum
+10 Euphrasia_officinalis
+11 Hypochoeris_radicata
+12 Knautia_arvensis
+13 Lathyrusvpratensis
+14 Leontodon_autumnalis
+15 Leontodon_hispidus
+16 Leontodon_saxatilis
+17 Linum_catharticum
+18 Lotus_corniculatus
+19 Medicago_lupulina
+20 Plantago_major
+21 Rubus_fruticosus
+22 Senecio_jacobea
+23 Torilis_japonica
+24 Trifolium_pratense
+25 Aglais_urticae
+26 Apis_mellifera
+27 Bombus_lapidarius
+28 Bombus_muscorum
+29 Bombus_pascuorum
+30 Bombus_terrestris
+31 Chrysotoxum_bicinctum
+32 Coleoptera_sp1_M_PL_017
+33 Coleoptera_sp2_M_PL_017
+34 Coleoptera_sp3_M_PL_017
+35 Coleoptera_sp4_M_PL_017
+36 Coleoptera_sp5_M_PL_017
+37 Coleoptera_sp6_M_PL_017
+38 Coleoptera_sp7_M_PL_017
+39 Diptera_sp10_M_PL_017
+40 Diptera_sp11_M_PL_017
+41 Diptera_sp12_M_PL_017
+42 Diptera_sp13_M_PL_017
+43 Diptera_sp15_M_PL_017
+44 Diptera_sp16_M_PL_017
+45 Diptera_sp17_M_PL_017
+46 Diptera_sp18_M_PL_017
+47 Diptera_sp19_M_PL_017
+48 Diptera_sp20_M_PL_017
+49 Diptera_sp21_M_PL_017
+50 Diptera_sp22_M_PL_017
+51 Diptera_sp23_M_PL_017
+52 Diptera_sp24_M_PL_017
+53 Diptera_sp25_M_PL_017
+54 Diptera_sp26_M_PL_017
+55 Diptera_sp27_M_PL_017
+56 Diptera_sp28_M_PL_017
+57 Diptera_sp29_M_PL_017
+58 Diptera_sp30_M_PL_017
+59 Diptera_sp31_M_PL_017
+60 Diptera_sp32_M_PL_017
+61 Diptera_sp33_M_PL_017
+62 Diptera_sp34_M_PL_017
+63 Diptera_sp35_M_PL_017
+64 Diptera_sp37_M_PL_017
+65 Diptera sp38_M_PL_017
+66 Episyrphus_arbustorum
+67 Episyrphus_balteatus
+68 Eriothrix_rufomaculata
+69 Eristalis_pertinax
+70 Eristalis_tenax
+71 Helophilus_pendulus
+72 Helophilus_trivittatus
+73 Hymenoptera_sp39_M_PL_017
+74 Hymenoptera_sp41_M_PL_017
+75 Hymenoptera_sp42_M_PL_017
+76 Maniola_jurtina
+77 Melanostoma_mellinum
+78 Melanostoma_scalare
+79 Meliscaeva_auricollis
+80 Metasyrphus_corollae
+81 Pieris_brassicae
+82 Platycheirus_albimanus
+83 Platycheirus_clypeatus
+84 Platycheirus_scutatus
+85 Polyommatus_icarus
+86 Psithyrus_sp1_M_PL_017
+87 Pyonia_tithonus
+88 Rhingia_campestris
+89 Scaeva_pyrastri
+90 Scatophaga_stercoraria
+91 Sphaerophoria_scripta
+92 Symphyta_sp1_M_PL_017
+93 Syritta_pipiens
+94 Syrphus_ribesii
+95 Syrphus_vitripennis
+96 Thymelicus_sylvestris
+97 Unidentified_sp14_M_PL_017
+98 Unidentified_sp36_M_PL_017
+99 Unidentified_sp40_M_PL_017
+100 Unidentified_sp43_M_PL_017
+101 Unidentified_sp8_M_PL_017
+102 Unidentified_sp9_M_PL_017
+103 Xanthogramma_pedissequum
+299 
+25 9 1
+25 12 1
+25 15 2
+26 3 5
+27 3 3
+27 4 1
+27 8 1
+27 24 1
+28 12 1
+28 24 9
+29 3 7
+29 12 4
+29 13 1
+29 18 1
+29 24 14
+30 3 4
+30 12 2
+31 8 5
+32 12 1
+32 15 1
+32 16 1
+32 24 1
+33 15 4
+34 11 1
+34 15 1
+35 15 1
+36 15 1
+37 11 2
+37 23 1
+38 14 2
+38 15 2
+39 8 5
+40 9 1
+41 8 3
+41 15 1
+42 8 13
+42 9 4
+42 23 3
+43 7 3
+43 8 31
+43 13 1
+43 15 2
+43 22 1
+43 23 1
+44 0 1
+44 8 9
+44 23 3
+45 0 1
+45 3 1
+45 7 1
+45 8 45
+45 9 7
+45 12 2
+45 15 1
+45 24 2
+46 0 1
+46 4 1
+46 8 32
+46 9 13
+46 23 4
+47 8 6
+47 9 5
+47 12 1
+48 8 1
+48 14 1
+48 15 1
+48 22 1
+49 8 1
+50 0 8
+50 2 2
+50 3 3
+50 7 1
+50 8 97
+50 9 28
+50 14 1
+50 15 2
+50 23 22
+51 8 1
+52 2 4
+53 8 3
+53 23 1
+54 3 1
+55 4 2
+55 14 2
+55 15 1
+56 15 2
+57 0 1
+57 8 10
+58 8 1
+59 0 1
+59 4 1
+59 5 1
+59 7 1
+59 8 107
+59 15 1
+59 22 1
+59 23 33
+60 0 8
+60 1 1
+60 2 2
+60 3 3
+60 4 3
+60 5 1
+60 7 10
+60 8 125
+60 9 6
+60 11 8
+60 12 6
+60 14 20
+60 15 139
+60 16 7
+60 17 1
+60 22 3
+60 23 43
+60 24 1
+61 1 1
+61 7 1
+61 11 1
+61 15 15
+62 9 1
+63 2 1
+64 8 1
+65 2 1
+65 8 9
+65 9 1
+65 15 1
+66 2 1
+66 8 12
+66 9 2
+66 12 1
+66 14 1
+66 15 8
+67 0 9
+67 1 2
+67 3 9
+67 5 3
+67 6 1
+67 8 52
+67 9 4
+67 11 3
+67 15 35
+67 16 2
+67 17 1
+67 22 1
+67 23 36
+67 24 1
+68 0 8
+68 1 1
+68 3 3
+68 4 8
+68 8 88
+68 9 31
+68 10 1
+68 11 1
+68 12 3
+68 14 1
+68 15 19
+68 17 3
+68 23 27
+68 24 4
+69 9 5
+69 12 2
+69 15 1
+69 23 1
+69 24 1
+70 3 1
+70 8 5
+70 9 4
+70 12 10
+70 14 1
+70 15 11
+70 24 1
+71 3 1
+71 10 1
+71 15 5
+71 23 1
+72 9 1
+73 2 1
+73 5 1
+73 7 1
+73 8 63
+73 9 1
+73 10 1
+73 15 2
+73 23 6
+74 3 1
+74 9 1
+74 23 1
+75 3 3
+75 4 4
+75 6 2
+75 7 4
+75 8 6
+75 11 3
+75 14 7
+75 15 58
+75 17 1
+75 19 1
+75 22 2
+75 24 1
+76 8 1
+76 12 1
+77 0 2
+77 1 1
+77 7 1
+77 8 12
+77 11 2
+77 17 1
+77 20 4
+77 22 1
+77 23 2
+78 4 1
+78 7 1
+78 8 4
+78 15 2
+78 20 2
+78 23 1
+78 24 1
+79 0 2
+79 8 2
+79 23 2
+80 1 1
+80 8 4
+80 14 1
+81 11 3
+81 14 1
+82 8 3
+82 10 3
+82 15 2
+83 1 2
+83 8 1
+83 20 9
+84 8 1
+85 3 2
+85 18 1
+85 24 3
+86 3 1
+86 12 1
+87 3 2
+87 9 4
+87 12 1
+88 4 1
+88 8 1
+88 12 3
+88 15 1
+89 9 1
+90 8 10
+90 12 2
+90 15 1
+91 1 2
+91 3 8
+91 4 1
+91 6 1
+91 7 5
+91 8 51
+91 9 16
+91 11 14
+91 12 2
+91 14 16
+91 15 101
+91 16 3
+91 17 16
+91 19 3
+91 22 3
+91 23 3
+91 24 2
+92 0 1
+92 2 1
+92 7 1
+92 8 53
+92 12 1
+92 15 2
+92 23 8
+93 2 1
+93 8 40
+93 9 2
+93 12 1
+93 14 1
+93 15 6
+93 17 1
+93 21 1
+93 23 6
+93 24 1
+94 8 6
+95 8 6
+95 23 2
+96 24 1
+97 3 1
+97 23 1
+98 8 2
+99 23 2
+100 8 3
+100 15 3
+101 3 1
+101 8 3
+101 9 1
+101 23 5
+102 24 2
+103 8 2

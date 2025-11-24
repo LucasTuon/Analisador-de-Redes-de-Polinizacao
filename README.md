@@ -30,17 +30,13 @@ Análise de Conectividade:
 
 Um algoritmo que determina o nível de conectividade do grafo, classificando-o como:
 
-- C0: Desconexo
+- Desconexo
 
-- C1: Simplesmente Conexo
-
-- C2: Semifortemente Conexo
-
-- C3: Fortemente Conexo
+- Conexo
 
 Grafo Reduzido:
 
-Geração e exibição do grafo reduzido (também conhecido como grafo de condensação), onde cada vértice representa uma Componente Fortemente Conexa (CFC) do grafo original.
+Essa opção foi retirada após a mudança para um grafo não direcionado.
 
 
 ## Estrutura dos Arquivos
@@ -53,5 +49,5 @@ Geração e exibição do grafo reduzido (também conhecido como grafo de conden
 
 - arp_app.cpp: Arquivo principal que contém a função main e a lógica para a interface de linha de comando.
 
-## Link para futuro vídeo
+## Link para o vídeo
 https://www.youtube.com/@lucastuon
